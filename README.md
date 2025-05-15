@@ -34,7 +34,7 @@ Vanilla JavaScript, GSAP, Swiper를 사용하여 <br>
 
 | 헤더 인터랙션 | 메인 슬라이드 | 풀 페이지 스크롤 |
 |-------------|----------------|-------------|
-| ![](images/ss1_2.jpg) | ![](images/ss2.jpg) | ![](images/ss4.jpg) |
+| ![](images/ss0.jpg) | ![](images/ss2.jpg) | ![](images/ss4.jpg) |
 
 
 
@@ -46,8 +46,8 @@ Vanilla JavaScript, GSAP, Swiper를 사용하여 <br>
 
 - 마우스를 헤더에 올리면 .fixed, .active 클래스를 추가해서 상단 고정 효과와 스타일을 활성화합니다.
 
-- <img src="images/ss1_1.jpg" alt="헤더 인터랙션 전">
-- <img src="images/ss1_2.jpg" alt="헤더 인터랙션 후">
+<img src="images/ss1_1.jpg" alt="헤더 인터랙션 전">
+<img src="images/ss1_2.jpg" alt="헤더 인터랙션 후">
 
 ```javascript
 const header = document.querySelector("header");
