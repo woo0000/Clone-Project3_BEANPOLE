@@ -1,4 +1,4 @@
-## 데스크탑 - 풀 페이지 스크롤 UI CLONE (BEABPOLE)
+## 데스크탑 - 풀 페이지 스크롤 UI 연습 (BEABPOLE)
 
 빈폴 웹사이트를 참조하여, 풀 스크린 스크롤 재현을 목적으로 제작한 페이지입니다. <br>
 Vanilla JavaScript, GSAP, Swiper를 사용하여 <br>
