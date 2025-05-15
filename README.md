@@ -32,9 +32,9 @@ Vanilla JavaScript, GSAP, Swiper를 사용하여 <br>
 
 ### 📸 데모 이미지
 
-| 모바일 메뉴 | 메인 화면 | 모바일 슬라이드 |
+| 헤더 인터랙션 | 메인 슬라이드 | 풀 페이지 스크롤 |
 |-------------|----------------|-------------|
-| ![](images/ss8.jpg) | ![](images/ss1.jpg) | ![](images/ss9.jpg) |
+| ![](images/ss1_2.jpg) | ![](images/ss2.jpg) | ![](images/ss4.jpg) |
 
 
 
@@ -141,7 +141,8 @@ subList.forEach(function(item){
 
 ### ✅ 4. 전체 화면 기준으로 화면 전환하는 함수 (GSAP 애니메이션)
 
-- n 값에 따라 해당 섹션으로 부드럽게 이동하는 기능. gsap.to()를 이용해 화면이 자연스럽게 이동됩니다.
+- n 값에 따라 해당 섹션으로 부드럽게 이동하는 기능입니다.
+- gsap.to()를 이용해 화면이 자연스럽게 이동됩니다.
 
 <img src="images/ss4.jpg" alt="데스크탑 GNB 호버">
 
